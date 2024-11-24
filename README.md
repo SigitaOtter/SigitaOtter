@@ -22,5 +22,6 @@ Most of the contents on my GitHub come from my super studies @ Turing College. I
 ### Please visit my repositories:
 
 #### Tableau Dashboards
+#### SQL queries
 #### Jupyter Notebooks
 #### Presentations
