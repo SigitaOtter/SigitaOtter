@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! Thanks for visiting my profile!
 
 <!--
 **SigitaOtter/SigitaOtter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I am Sigita, soon-to-be alumni of Turing College.
+
+Most of the contents on my GitHub come from my super studies @ Turing College. I have just finished Data Analytics programme (+ Product Analyst specialisation module).
+
+### Please visit my repositories:
+
+#### Tableau Dashboards
+#### Jupyter Notebooks
+#### Presentations
