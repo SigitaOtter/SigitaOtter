@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 Most of the contents on my GitHub come from my super studies @ Turing College. I have just finished Data Analytics programme (+ Product Analyst specialisation module).
 <br>
 
-Please visit my repositories to find examples of how I approach data analytics projects and use data analysis tools.
-<br>
 
 ### Technologies in my data analytics toolbelt
 (NB! order of the list of technologies does not represent my preference nor does it correlate with my profficiency in them. The star rating next to each technology represents my expertise, how much I currently shine, subject to go up)
@@ -42,3 +40,8 @@ Please visit my repositories to find examples of how I approach data analytics p
 9. GoogleSlides :sparkles::sparkles:
 
 #### and GitHub :sparkles:
+
+<br>
+
+#### Please visit my pinned repositories to find examples of how I approach data analytics projects and use data analysis tools.
+:point_down::point_down::point_down::point_down::point_down:
