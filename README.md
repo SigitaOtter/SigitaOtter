@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 Most of the contents on my GitHub come from my super studies @ Turing College. I have just finished Data Analytics programme (+ Product Analyst specialisation module).
 <br>
+
 Please visit my repositories to find examples of how I approach data analytics projects and use data analysis tools.
 <br>
 
