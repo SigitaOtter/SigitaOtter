@@ -27,18 +27,18 @@ Please visit my repositories to find examples of how I approach data analytics p
 (NB! order of the list of technologies does not represent my preference nor does it correlate with my profficiency in them. The star rating next to each technology represents my expertise, how much I currently shine, subject to go up)
 
 #### Data manipulation
-1. SQL :sparkles: :sparkles: :sparkles:
-2. MS Excel :sparkles: :sparkles: :sparkles:
-3. GoogleSheets :sparkles: :sparkles:
-4. Python (pandas, numpy) :sparkles: :sparkles:
+1. SQL :sparkles::sparkles::sparkles:
+2. MS Excel :sparkles::sparkles::sparkles:
+3. GoogleSheets :sparkles::sparkles:
+4. Python (pandas, numpy) :sparkles::sparkles:
 
 #### Data visualization
-5. Tableau :sparkles: :sparkles: :sparkles:
+5. Tableau :sparkles::sparkles::sparkles:
 6. Looker :sparkles:
-7. Pyhton (matplotlib, seaborn, plotly) :sparkles: :sparkles:
+7. Pyhton (matplotlib, seaborn, plotly) :sparkles::sparkles:
 
 #### Data presentation
-8. MS Powerpoint :sparkles: :sparkles:
-9. GoogleSlides :sparkles: :sparkles:
+8. MS Powerpoint :sparkles::sparkles:
+9. GoogleSlides :sparkles::sparkles:
 
 #### and GitHub :sparkles:
