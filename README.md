@@ -25,7 +25,7 @@ Most of the contents on my GitHub come from my super studies @ Turing College. I
 (NB! order of the list of technologies does not represent my preference nor does it correlate with my profficiency in them. The star rating next to each technology represents my expertise, how much I currently shine, subject to go up)
 
 #### Data manipulation
-1. SQL :sparkles::sparkles::sparkles:
+1. SQL (MySQL, GoogleBigQuery, postgresql) :sparkles::sparkles::sparkles:
 2. MS Excel :sparkles::sparkles::sparkles:
 3. GoogleSheets :sparkles::sparkles:
 4. Python (pandas, numpy) :sparkles::sparkles:
