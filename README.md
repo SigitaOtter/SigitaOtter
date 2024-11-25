@@ -19,9 +19,24 @@ Here are some ideas to get you started:
 
 Most of the contents on my GitHub come from my super studies @ Turing College. I have just finished Data Analytics programme (+ Product Analyst specialisation module).
 
-### Please visit my repositories:
+### Please visit my repositories to find examples of how I approach data analytics projects and use data analysis tools.
 
-#### Tableau Dashboards
-#### SQL queries
-#### Jupyter Notebooks
-#### Presentations
+### Technologies in my data analytics toolbelt
+(NB! order of the list of technologies does not represent my preference nor does it correlate with my profficiency in them. The star rating next to each technology represents my expertise, how much I currently shine, subject to go up)
+
+#### Data manipulation
+##### SQL :sparkles: :sparkles: :sparkles:
+##### MS Excel :sparkles: :sparkles: :sparkles:
+##### GoogleSheets :sparkles: :sparkles:
+#### Python (pandas, numpy) :sparkles:
+
+#### Data visualization
+##### Tableau :sparkles: :sparkles: :sparkles:
+##### Looker :sparkles:
+##### Pyhton (matplotlib, seaborn, plotly) :sparkles: :sparkles:
+
+#### Data presentation
+##### MS Powerpoint :sparkles: :sparkles:
+##### GoogleSlides :sparkles: :sparkles:
+
+#### and GitHub :sparkles:
