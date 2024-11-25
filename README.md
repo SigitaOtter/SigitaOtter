@@ -1,4 +1,4 @@
-## Hi! Thanks for visiting my profile!
+## Hi! Thanks for visiting my profile :green_heart:
 
 <!--
 **SigitaOtter/SigitaOtter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
