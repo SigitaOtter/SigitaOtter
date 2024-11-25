@@ -21,6 +21,7 @@ Most of the contents on my GitHub come from my super studies @ Turing College. I
 <br>
 ### Please visit my repositories to find examples of how I approach data analytics projects and use data analysis tools.
 <br>
+
 ### Technologies in my data analytics toolbelt
 (NB! order of the list of technologies does not represent my preference nor does it correlate with my profficiency in them. The star rating next to each technology represents my expertise, how much I currently shine, subject to go up)
 
