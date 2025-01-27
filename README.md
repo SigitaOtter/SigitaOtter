@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I am Sigita, soon-to-be alumni of Turing College.
+### I am Sigita, Turing College Data Analytics program alumni.
 
 Most of the contents on my GitHub come from my super studies @ Turing College. I have just finished Data Analytics programme (+ Product Analyst specialisation module).
 <br>
